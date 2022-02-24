@@ -1,0 +1,17 @@
+.site-heading {
+  text-align: center;
+}
+
+.site-img {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site-text {
+  background-color: aqua;
+  margin-left: auto;
+  margin-right: auto;
+}
